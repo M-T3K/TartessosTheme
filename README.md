@@ -8,7 +8,7 @@ These images show the usage of the theme with a variety of programming languages
 
 ![Json With Comments](/Gallery/JsonWithComments.PNG "Sample image using the Theme on a Json w/ Comments file.")
 ![Another Json With Comments](/Gallery/JsonWithComments2.PNG "Sample image using the Theme on a Json w/ Comments file.")
-![C++](/Gallery/CPP.PNG "Sample image using the Theme on a C++ file.")
+![C++](/Gallery/CPP.png "Sample image using the Theme on a C++ file.")
 ![D](/Gallery/Dlang.PNG "Sample image using the Theme on a D file.")
 ![Go](/Gallery/Golang.PNG "Sample image using the Theme on a Golang file.")
 ![Python](/Gallery/Python.PNG "Sample image using the Theme on a Python file.")
