@@ -1,0 +1,21 @@
+{
+  "name": "tartessos",
+  "displayName": "Tartessos",
+  "description": "A Color Theme for VSCode based on thee lost ICivilization of Tartessos",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tartessos",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tartessos-color-theme.json"
+      }
+    ]
+  }
+}
