@@ -2,7 +2,7 @@
   "name": "tartessos",
   "displayName": "Tartessos",
   "description": "A Color Theme for VSCode based on the lost Civilization of Tartessos",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.71.0"
   },
