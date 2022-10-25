@@ -16,4 +16,6 @@ These images show the usage of the theme with a variety of programming languages
 
 ## Maintenance
 
-I have decided to leave VSCode as my Main Editor due to how slow it is, and will probably switch to [4coder](https://4coder.net/). I will make a conversion of this theme to 4coder if that ends up being my choice. Thus, I will not be maintaining this repository. Feel free to fork it as much as you like, and I hope it you enjoy using it!
+I have decided to leave VSCode as my Main Editor due to how slow it is, and will probably switch to my own fork of [4coder](https://4coder.net/). There's also a (much more limited) version of the theme for 4coder, on its respective folder. 
+
+Feel free to fork this repo as much as you like, and I hope it you enjoy using it!

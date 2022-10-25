@@ -1,0 +1,74 @@
+// @info defcolor_back: bg color of the editor
+defcolor_back = 0xFF001920;
+defcolor_margin = 0xFF0d1b20;
+defcolor_margin_hover = 0xFF01415A;
+defcolor_margin_active = 0xFF015475;
+
+// @info colors in the commmand list
+defcolor_list_item = {defcolor_margin, defcolor_back};
+defcolor_list_item_hover = {defcolor_margin_hover, defcolor_margin};
+defcolor_list_item_active = {defcolor_margin_active, defcolor_margin_active};
+
+// @info cursor color
+defcolor_cursor = {0xFFFFFB00, 0xFFFFFB00};
+// @info color of character at cursor
+defcolor_at_cursor = defcolor_back;
+// ? no idea
+defcolor_highlight_cursor_line = 0xFF252525;
+
+// @info Cursor pointer mark when copying and doing text stuff
+defcolor_mark = 0xFF006e99;
+
+// ? no idea
+defcolor_highlight = 0xFF303030;
+defcolor_at_highlight = defcolor_back;
+
+// @info Text Color
+defcolor_text_default = 0xFFF9FAF0;
+
+// @info Comment Color
+defcolor_comment = 0xFF2ED30D;
+
+// ? no idea
+defcolor_comment_pop = {0xFF00C030, 0xFFF00000};
+
+// @info Syntax Highlighting
+defcolor_keyword = 0xFFE6D47E;
+defcolor_str_constant = 0xFF00DADA;
+defcolor_char_constant = defcolor_str_constant;
+defcolor_int_constant = 0xFFB0F5E6;
+defcolor_float_constant = defcolor_int_constant;
+defcolor_bool_constant = defcolor_int_constant;
+defcolor_include = 0xFF00D9FF;
+defcolor_preproc = defcolor_include;
+defcolor_special_character = 0xFFFF0000;
+defcolor_ghost_character = 0xFF46494D;
+
+// @info Changes the colors when pasting and undoing
+defcolor_paste = 0xFFFFFB00;
+defcolor_undo = 0xFF00DDEE;
+
+defcolor_highlight_junk = 0xFF3A0000;
+defcolor_highlight_white = 0xFF151F2A;
+
+
+// @info defcolor_bar: bg color of bar
+defcolor_bar = 0xFF003e57;
+// ? I guess this is to change the color of the bar on the active panel
+// but it isn't working for me so idk...
+defcolor_bar_active = 0xFF00324b;
+// @info defcolor_base: fg color of text in the bar
+defcolor_base = 0xFFfaf9e6;
+// ? No idea what this one does
+defcolor_pop1 = 0xFFFF200D;
+// @info changes the color  of the asterisk if file is dirty (aka has unsaved changes)
+defcolor_pop2 = 0xFFFFFB00;
+
+// @info defcolor_back_cycle: bg color of scopes
+defcolor_back_cycle = {0x0EA00000, 0x0D00A000, 0x0D0000A0, 0x0EA0A000};
+// @info defcolor_text_cycle: fg color of braces/parenthesis
+defcolor_text_cycle = {0xFFF00000, 0xFF00C030, 0xFF0040F0, 0xFFB0B000};
+
+// @info bg and fg for line numbers
+defcolor_line_numbers_back = 0xFF003e57;
+defcolor_line_numbers_text = 0xFFfaf9e6;
