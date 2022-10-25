@@ -59,8 +59,8 @@ defcolor_bar = 0xFF003e57;
 defcolor_bar_active = 0xFF00324b;
 // @info defcolor_base: fg color of text in the bar
 defcolor_base = 0xFFfaf9e6;
-// ? No idea what this one does
-defcolor_pop1 = 0xFFFF200D;
+// @info defcolor_pop1 Specific Popup keywords such as "command" or "I-Search"
+defcolor_pop1 = defcolor_comment;
 // @info changes the color  of the asterisk if file is dirty (aka has unsaved changes)
 defcolor_pop2 = 0xFFFFFB00;
 
